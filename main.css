@@ -1,0 +1,37 @@
+body{
+	padding: 0%;
+	margin: 0%;
+}
+
+.principal{
+	background-color: silver;
+	text-align: center;
+	height: 100vh;
+}
+
+.navegacion{
+	background-color: blue;
+	text-align: center;
+}
+
+.contenido{
+	background-color: darkred;
+	text-align: center;
+	display: inline-flex;
+	padding: 1%;
+}
+
+.contenido_principal{
+	background-color: pink;
+	width: 70%;
+}
+
+.lateral{
+	background-color: darkblue;
+	width: 30%;
+}
+
+.pie{
+	background-color: gold;
+	text-align: center;
+}
